@@ -3,7 +3,7 @@
 This is a simple tic-tac-toe game. The coordinates for the grid cells are as follows:
 
 (1, 1) (1, 2) (1, 3) <br />
-(2, 1) (2, 2) (2, 3)
+(2, 1) (2, 2) (2, 3) <br />
 (3, 1) (3, 2) (3, 3)
 
 The game starts with an empty grid. Enter the coordinates where you would like the next X or O to be.
