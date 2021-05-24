@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-# Description
+#
 This is a simple tic-tac-toe game. The coordinates for the grid cells are as follows:
 
 (1, 1) (1, 2) (1, 3)
